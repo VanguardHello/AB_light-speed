@@ -1,0 +1,32 @@
+{
+  "item": {
+    "name": "速率Light Speed",
+    "description": "一款简约好看的小米手表S4运动风表盘",
+    "preview": [
+      "aod-preview.png",
+      "preview.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/VanguardHello/AB_light-speed-open/upload",
+    "author": [
+      {
+        "name": "VanguardHello",
+        "author_url": "https://github.com/VanguardHello"
+      }
+    ]
+  },
+  "downloads": {
+    "o62": {
+      "version": "1.0.0",
+      "file_name": ""
+    },
+    "o62m": {
+      "version": "1.0.0",
+      "file_name": ""
+    },
+    "o63": {
+      "version": "1.0.0",
+      "file_name": ""
+    }
+  }
+}
